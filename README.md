@@ -1,4 +1,4 @@
-# Desafio da especialização em React Js trilha 2021 - Rocketseat
+# Modulo 01 - Desafio 01 - Conceitos do React - Especialização em React Js trilha 2021 - Rocketseat
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 
@@ -8,7 +8,7 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
 
-descrição do projeto: https://www.notion.so/Desafio-01-Conceitos-do-React-**51e4099a6e2f4d4bae94f9fe75bb769d** 
+descrição do projeto: [notion](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
 ## Run
 
 - clone o repositório `git clone https://github.com/DouglasO-R/ignite-2021-reactjs-conceitos-do-react.git`
